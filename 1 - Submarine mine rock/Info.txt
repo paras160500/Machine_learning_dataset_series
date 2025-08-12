@@ -1,0 +1,12 @@
+So here we have to look the data for sonar and it will tell us either it is stone or a mine
+
+So the things clear first that we have to use logistic regression method 
+as there is categorical things so we can use logistic regression model
+
+so below is the pathway of doing the work done
+
+Sonar Data => Data Pre Processing => Train Test Split => Logistic regression
+
+with that Logistic Regression Model => We will predict the new data...
+
+So the prediction will be like Rock (R) or Mine (M)
